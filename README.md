@@ -1,4 +1,4 @@
 # Systems-Programming
-Repository containing Systems Programming assginments created in C, implemented in my second year
+Repository containing Systems Programming assginments created in C, implemented in my Second-Year
 
-Semester 1-> CSU22014
+First Semester-> CSU22014
